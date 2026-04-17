@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Uday Kasera</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align = "right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkSc2NGMvZaz1_v-XsMXcPMx6K2ULxbTkhMg&s" alt="coding" width="400" >
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=udaykasera" alt="udaykasera" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=udaykasera&label=Profile%20views&color=0e75b6&style=flat" alt="udaykasera" /> </p>
 
 - 🌱 I’m currently learning **React, Django , DSA , Backend devleopment**
 
