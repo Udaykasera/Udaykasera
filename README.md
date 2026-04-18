@@ -1,5 +1,5 @@
 # Hi 💫, I'am Uday kasera
-# 🧑‍💻 A passionate full stack developer form India
+# 🧑‍💻 A passionate full stack developer from India
 <br><br>🤝 I’m looking for a full-stack web developer opportunity .<br>🌱  I’m currently learning React, Django, DSA, and backend development<br>💬 Ask me about JavaScript, React, and Web development<br>👨‍💻 All of my projects are available at https://github.com/Udaykasera<br>📝 Know about my experiences https://github.com/Udaykasera<br>😂 Fun fact I try to play with Programming 😂<br>
 
 
